@@ -4,5 +4,6 @@ This is a grammar package for the GenExpr language from Cycling 74's Gen inside 
 
 ## Installation
 
-1. Download this repo. Change the name of the folder from language-GenExpr to language-gendsp.
-2. Copy folder to your `/.atom/packages/` folder 
+1. Download this repo. 
+2. Change the name of the folder from language-GenExpr to language-gendsp.
+3. Copy folder to your `/.atom/packages/` folder 
